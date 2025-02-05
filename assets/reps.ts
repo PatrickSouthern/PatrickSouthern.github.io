@@ -1,5 +1,11 @@
 export default [
     {
+        "exercise": "pullup",
+        "band":"XHH",
+        "reps":"8",
+        "next":"~"
+    },
+    {
         "exercise": "romaniandeadlift",
         "band":"L",
         "reps":"8",
